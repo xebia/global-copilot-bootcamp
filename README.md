@@ -1,1 +1,5 @@
-# global-copilot-bootcamp
+# Global GitHub Copilot Bootcamp
+
+## Instructions
+
+## Hands-On Labs
