@@ -16,7 +16,7 @@ We suggest using [Copilot Adventures](https://github.com/microsoft/CopilotAdvent
 ## 🗺️ Lab Flow
 
 Follow these steps to get the most from your lab experience.  
-Example: **Warmup Adventure** – Predict the next number in an arithmetic sequence.
+Example: [Warmup Adventure](https://github.com/microsoft/CopilotAdventures/blob/main/Adventures/Warmup-Adventure.md) – Predict the next number in an arithmetic sequence.  
 
 ---
 
@@ -100,19 +100,47 @@ Example: **Warmup Adventure** – Predict the next number in an arithmetic seque
 
 ---
 
+## Additional Labs
+
+- **Rock-paper-scissors game (Python):**  
+  [Mastering-GitHub-Copilot-for-Paired-Programming - Mini Game Lab](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/07-Creating-Mini-Game-with-GitHub-Copilot)
+
+- **Rock-paper-scissors game (C#/.NET):**  
+  [Mastering-GitHub-Copilot-for-dotnet-csharp-developers - Mini Game Lab](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers/tree/main/05-Creating-Mini-Game-with-GitHub-Copilot)
+
+- **Upgrade Python 2.5 > 3:**  
+  [Mastering-GitHub-Copilot-for-Paired-Programming - Upgrading Legacy Projects](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/11-Upgrading-Legacy-Projects)
+
+- **Space invaders game in JavaScript:**  
+  [Web-Dev-For-Beginners - Space Game](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/6-space-game)
+
+---
+
+## Version Control Best Practices
+
+We recommend using a Git repository to store your code for all labs and exercises. Commit your changes often with clear messages. This makes it easy to revert to previous versions if needed and encourages good development habits when working with AI tools like GitHub Copilot.
+
+---
+
 ## 📚 Useful Links
 
+- [GitHub Copilot FREE for Visual Studio Code](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot/?wt.mc_id=thankyou_S-1446_email_reactor)  
+  *Guide on how to activate your free Copilot account in Visual Studio Code*
+
 - [Getting Started with GitHub Copilot](https://docs.github.com/en/copilot/setting-up-github-copilot/setting-up-github-copilot-for-yourself)  
-  _Official setup documentation_
+  *Official setup documentation*
 
 - [Prompt Engineering for Copilot Chat](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/prompt-engineering-for-copilot-chat)  
-  _How to write effective prompts_
+  *How to write effective prompts*
 
-- [GitHub Copilot Chat Cheat Sheet](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/github-copilot-chat-cheat-sheet)  
-  _Commands and best practices_
+- [Prompting Guide](https://www.promptingguide.ai/)  
+  *A helpful guide for crafting effective prompts for AI tools like GitHub Copilot*
+
+- [GitHub Copilot Chat Cheat Sheet](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/github-copilot-chat-cheat-sheet?tool=vscode)  
+  *Commands and best practices (or simply use `/help` in chat!)*
 
 - [Which AI Model Should I Use with Copilot?](https://github.blog/ai-and-ml/github-copilot/which-ai-model-should-i-use-with-github-copilot/)  
-  _AI model selection guide_
+  *AI model selection guide*
 
 ---
 
