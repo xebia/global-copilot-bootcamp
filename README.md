@@ -9,6 +9,7 @@ We suggest using [Copilot Adventures](https://github.com/microsoft/CopilotAdvent
 
 - **If you’re new:** Start with the **Warmup Adventure**.
 - **If you’re confident:** Explore other adventures from the list above.
+- **Still searching for that perfect coding quest?**  Explore [additional labs below](#additional-labs) and see what inspires you!
 - **Tip:** Use any programming language and IDE you like. Most Copilot features are available in [Visual Studio Code](https://code.visualstudio.com/).
 
 ---
@@ -113,6 +114,9 @@ Example: [Warmup Adventure](https://github.com/microsoft/CopilotAdventures/blob/
 
 - **Space invaders game in JavaScript:**  
   [Web-Dev-For-Beginners - Space Game](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/6-space-game)
+
+- **Finished the lab and curious about MCP server integration?**  
+[Check out this guide to integrating MCP with Copilot and explore new possibilities!](https://github.com/xebia/integrate-mcp-with-copilot)
 
 ---
 
