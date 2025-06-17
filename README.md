@@ -7,7 +7,7 @@ This lab will help you get hands-on experience using Copilot to solve programmin
 
 We suggest using [Copilot Adventures](https://github.com/microsoft/CopilotAdventures) as inspiration for your projects.
 
-- **If you’re new:** Start with the **Warmup Adventure**.
+- **If you’re new:** Start with the [Warmup Adventure](https://github.com/microsoft/CopilotAdventures/blob/main/Adventures/Warmup-Adventure.md).
 - **If you’re confident:** Explore other adventures from the list above.
 - **Still searching for that perfect coding quest?**  Explore [additional labs below](#additional-labs) and see what inspires you!
 - **Tip:** Use any programming language and IDE you like. Most Copilot features are available in [Visual Studio Code](https://code.visualstudio.com/).
@@ -16,8 +16,9 @@ We suggest using [Copilot Adventures](https://github.com/microsoft/CopilotAdvent
 
 ## 🗺️ Lab Flow
 
-Follow these steps to get the most from your lab experience.  
-Example: [Warmup Adventure](https://github.com/microsoft/CopilotAdventures/blob/main/Adventures/Warmup-Adventure.md) – Predict the next number in an arithmetic sequence.  
+Not sure where to start? Use this flow as inspiration for your own hands-on journey.
+
+We’ll walk through the steps using the [Warmup Adventure](https://github.com/microsoft/CopilotAdventures/blob/main/Adventures/Warmup-Adventure.md) as an example.
 
 ---
 
